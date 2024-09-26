@@ -1,0 +1,7 @@
+{
+  "name": "Pinto Fail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
